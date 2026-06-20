@@ -5,9 +5,9 @@ Nice to meet you, my name is Julianne, on my Github it's Trollhammer590, but fee
 </div>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f7e8d2?style=for-the-badge&logo=linkedin&logoColor=2e1e1e)](https://www.linkedin.com/in/julianne-wolkmer-b5984b228)
-[![Instagram](https://img.shields.io/badge/-Instagram-f7e8d2?style=for-the-badge&logo=instagram&logoColor=2e1e1e)](https://www.instagram.com/trollhammer590/)
-[![GitHub](https://img.shields.io/badge/GitHub-f7e8d2?style=for-the-badge&logo=github&logoColor=2e1e1e)](https://github.com/Trollhammer590)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-463af0?style=for-the-badge&logo=linkedin&logoColor=0c0926)](https://www.linkedin.com/in/julianne-wolkmer-b5984b228)
+[![Instagram](https://img.shields.io/badge/-Instagram-463af0?style=for-the-badge&logo=instagram&logoColor=0c0926)](https://www.instagram.com/trollhammer590/)
+[![GitHub](https://img.shields.io/badge/GitHub-463af0?style=for-the-badge&logo=github&logoColor=0c0926)](https://github.com/Trollhammer590)
 
 <br>
 
@@ -20,10 +20,7 @@ Nice to meet you, my name is Julianne, on my Github it's Trollhammer590, but fee
 <table>
 <tr>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Trollhammer590&bg_color=f7e8d2&border_color=f7e8d2&show_icons=true&icon_color=e8631c&title_color=e8631c&text_color=2e1e1e" style="size: 100px">
-    </td>
-    <td>
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Trollhammer590&layout=compact&bg_color=f7e8d2&border_color=f7e8d2&title_color=E94D5F&text_color=2e1e1e">
+        <img src="https://github-readme-stats.vercel.app/api?username=Trollhammer590&bg_color=0c0926&border_color=0c0926&show_icons=true&icon_color=463af0&title_color=463af0&text_color=FFFFFF" style="size: 100px">
     </td>
 <tr>
 </table>
@@ -33,11 +30,12 @@ Nice to meet you, my name is Julianne, on my Github it's Trollhammer590, but fee
 <h2 style="text-align: center;">⋆ Skills</h2>
 
 ### Hard Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-f7e8d2?style=for-the-badge&logo=javascript&logoColor=2e1e1e)
-![HTML5](https://img.shields.io/badge/HTML5-f7e8d2?style=for-the-badge&logo=html5&logoColor=2e1e1e)
-![CSS3](https://img.shields.io/badge/CSS3-f7e8d2?style=for-the-badge&logo=css3&logoColor=2e1e1e)
-![NodeJS](https://img.shields.io/badge/node.js-f7e8d2?style=for-the-badge&logo=node.js&logoColor=2e1e1e)
-![Git](https://img.shields.io/badge/GIT-f7e8d2?style=for-the-badge&logo=git&logoColor=2e1e1e)
+![JavaScript](https://img.shields.io/badge/JavaScript-463af0?style=for-the-badge&logo=javascript&logoColor=0c0926)
+![HTML5](https://img.shields.io/badge/HTML5-463af0?style=for-the-badge&logo=html5&logoColor=0c0926)
+![CSS3](https://img.shields.io/badge/CSS3-463af0?style=for-the-badge&logo=css3&logoColor=0c0926)
+![NodeJS](https://img.shields.io/badge/node.js-463af0?style=for-the-badge&logo=node.js&logoColor=0c0926)
+![Git](https://img.shields.io/badge/GIT-463af0?style=for-the-badge&logo=git&logoColor=0c0926)
+![C++](https://img.shields.io/badge/C%2B%2B-463af0?style=for-the-badge&logo=c%2B%2B&logoColor=0c0926)
 
 ### Soft Skills
 **Criativity** | **Negotiation** | **Communication** | **Teamwork** | **Conflict resolution** | **Empathy**
@@ -48,9 +46,9 @@ Nice to meet you, my name is Julianne, on my Github it's Trollhammer590, but fee
 <h1>── .✦ Best Github Repositories</h1>
 
 <a href= "https://github.com/Trollhammer590/GatosMangakas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trollhammer590&repo=GatosMangakas&bg_color=f7e8d2&border_color=f7e8d2&show_icons=true&icon_color=e8631c&title_color=E94D5F&text_color=2e1e1e)]()">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trollhammer590&repo=GatosMangakas&bg_color=0c0926&border_color=0c0926&show_icons=true&icon_color=463af0&title_color=463af0&text_color=FFFFFF)]()">
 </a>
 
 <a href= "https://github.com/Trollhammer590/MakeCardGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trollhammer590&repo=MakeCardGame&bg_color=f7e8d2&border_color=f7e8d2&show_icons=true&icon_color=e8631c&title_color=E94D5F&text_color=2e1e1e)]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trollhammer590&repo=MakeCardGame&bg_color=0c0926&border_color=0c0926&show_icons=true&icon_color=463af0&title_color=463af0&text_color=FFFFFF)]">
 </a>
